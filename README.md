@@ -1,2 +1,3 @@
-# Cube-Crew
-I really wish this worked for Organizations, but alas.
+# Cube Crew Website
+
+This repository contains the website for Cube Crew. Visit it [here.]()
