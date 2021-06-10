@@ -1,3 +1,3 @@
 # Cube Crew Website
 
-This repository contains the website for Cube Crew. Visit it [here.]()
+This repository contains the website for Cube Crew. Visit it [here.](https://cube-crew.github.io/Cube-Crew/)
