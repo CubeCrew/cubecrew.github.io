@@ -11,8 +11,8 @@ The lead pixel artist, chiptune maker, and programmer. Probably the lamest guy i
 Vector artist and Prokube's emotional support guy. <!-- lol --> He's cool.
 
 > ```ini
-> You got
-> [Stickmin Drip]!
+> [You got]
+> Stickmin Drip!
 > 
 > ```
 
