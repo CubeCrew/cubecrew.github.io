@@ -18,7 +18,7 @@ Celeste completely rewritten in Haxe, with out-the-box modding support. thank yo
 
 - The Dashlands
 
-Always been a fan of DELTARUNE, So I thought I'd make my own RPG. Something goes a tad bit wrong, though. <p color="yellow">Think I might've spilled some _R2xpdGNoZXM=_ on the source code.</p>
+Always been a fan of DELTARUNE, So I thought I'd make my own RPG. Something goes a tad bit wrong, though. <span color="yellow">Think I might've spilled some _R2xpdGNoZXM=_ on the source code.</span>
 
 - MouseVoltex
 
