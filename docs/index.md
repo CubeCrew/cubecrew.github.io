@@ -1,4 +1,4 @@
-# Home
+# About
 
 Cube Crew is an "indie" game development team. We do funny things like make decent games with no funding. Still working on that, though.
 
