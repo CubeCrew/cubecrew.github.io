@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 url: "https://cubecrew.github.io/"
 title: 'Cube Crew'
 description: 'Making stupid games since.. uhh...'
+
+plugins:
+- jemoji
